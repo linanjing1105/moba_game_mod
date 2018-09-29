@@ -1,0 +1,1 @@
+erl.exe -pa ../ebin -boot world -config cnf

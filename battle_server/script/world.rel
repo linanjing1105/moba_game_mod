@@ -1,0 +1,8 @@
+{release, {"public service", "R1"}, {erts, "erts-9.0"},
+    [
+    {kernel, "5.3"},
+    {stdlib, "3.4"},
+    {syslog, "0.0.1"},
+    {world, "0.0.1"}
+    ]
+}.
